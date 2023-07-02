@@ -1,4 +1,3 @@
-# A tool by nitro from www.noob-hackers.com
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -32,11 +31,11 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        MAMBA HACKS
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn MAMBA$red◀$rset"
+echo -e "$red                      ⫸$ylo  MAMBA HACKS$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -64,11 +63,11 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        MAMBA HACKS
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn MAMBA$red◀$rset"
+echo -e "$red                      ⫸$ylo  MAMBA HACKS$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -112,7 +111,7 @@ banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/FantasticSukhi/infect > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
@@ -206,13 +205,13 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mMAMBA" | pv -qL 10
+echo -e "\e[93m             IAM FROM \e[92mMAMBA HACKS" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[92m www.github.com/FantasticSukhi\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
@@ -237,7 +236,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/FantasticSukhi/infect 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
